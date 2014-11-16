@@ -1,0 +1,400 @@
+<?xml version="1.0"?>
+<CONFIG>
+  <ProjectSession>
+    <Version Value="9"/>
+    <BuildModes Active="Default"/>
+    <Units Count="35">
+      <Unit0>
+        <Filename Value="Launch.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <WindowIndex Value="0"/>
+        <CursorPos X="18" Y="14"/>
+        <UsageCount Value="48"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="main.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="MainForm"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="Main"/>
+        <EditorIndex Value="2"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="13"/>
+        <CursorPos X="7" Y="22"/>
+        <UsageCount Value="48"/>
+        <Loaded Value="True"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="cryptviewctrls.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="CryptViewCtrls"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="0"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="6"/>
+        <CursorPos X="4" Y="15"/>
+        <UsageCount Value="48"/>
+        <Loaded Value="True"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="appstrings.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="AppStrings"/>
+        <EditorIndex Value="3"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1"/>
+        <CursorPos X="1" Y="1"/>
+        <UsageCount Value="38"/>
+        <Loaded Value="True"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="configreader.pas"/>
+        <IsPartOfProject Value="True"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="70"/>
+        <CursorPos X="77" Y="70"/>
+        <UsageCount Value="28"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="keystores.pas"/>
+        <IsPartOfProject Value="True"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="85"/>
+        <CursorPos X="26" Y="33"/>
+        <UsageCount Value="28"/>
+      </Unit5>
+      <Unit6>
+        <Filename Value="filestores.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="FileStores"/>
+        <EditorIndex Value="1"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="356"/>
+        <CursorPos X="4" Y="198"/>
+        <UsageCount Value="28"/>
+        <Loaded Value="True"/>
+      </Unit6>
+      <Unit7>
+        <Filename Value="configforms.pas"/>
+        <IsPartOfProject Value="True"/>
+        <HasResources Value="True"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="21"/>
+        <CursorPos X="38" Y="99"/>
+        <UsageCount Value="28"/>
+      </Unit7>
+      <Unit8>
+        <Filename Value="memoryfiles.pas"/>
+        <IsPartOfProject Value="True"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="36"/>
+        <CursorPos X="34" Y="41"/>
+        <UsageCount Value="28"/>
+      </Unit8>
+      <Unit9>
+        <Filename Value="engineblowfish.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UsageCount Value="28"/>
+      </Unit9>
+      <Unit10>
+        <Filename Value="customplugins.pas"/>
+        <IsPartOfProject Value="True"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="24"/>
+        <CursorPos X="37" Y="47"/>
+        <UsageCount Value="26"/>
+      </Unit10>
+      <Unit11>
+        <Filename Value="cryptviewstrings.pas"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="4"/>
+        <CursorPos X="3" Y="11"/>
+        <UsageCount Value="40"/>
+      </Unit11>
+      <Unit12>
+        <Filename Value="portcryptstores.pas"/>
+        <WindowIndex Value="0"/>
+        <CursorPos X="32" Y="15"/>
+        <UsageCount Value="20"/>
+      </Unit12>
+      <Unit13>
+        <Filename Value="/usr/lib/codetyphon/typhon/lcl/lresources.pp"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="5254"/>
+        <CursorPos X="56" Y="5269"/>
+        <UsageCount Value="9"/>
+      </Unit13>
+      <Unit14>
+        <Filename Value="images.res"/>
+        <WindowIndex Value="0"/>
+        <CursorPos X="9"/>
+        <UsageCount Value="9"/>
+        <DefaultSyntaxHighlighter Value="None"/>
+      </Unit14>
+      <Unit15>
+        <Filename Value="images.lrs"/>
+        <WindowIndex Value="0"/>
+        <UsageCount Value="9"/>
+      </Unit15>
+      <Unit16>
+        <Filename Value="/usr/lib/codetyphon/typhon/lcl/include/graphic.inc"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="245"/>
+        <CursorPos Y="257"/>
+        <UsageCount Value="9"/>
+      </Unit16>
+      <Unit17>
+        <Filename Value="/usr/lib/codetyphon/fpcsrc/rtl/objpas/sysutils/sysutilh.inc"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="294"/>
+        <CursorPos X="13" Y="310"/>
+        <UsageCount Value="10"/>
+      </Unit17>
+      <Unit18>
+        <Filename Value="/usr/lib/codetyphon/fpcsrc/rtl/objpas/sysutils/sysutils.inc"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="230"/>
+        <CursorPos X="9" Y="156"/>
+        <UsageCount Value="10"/>
+      </Unit18>
+      <Unit19>
+        <Filename Value="/usr/lib/codetyphon/typhon/lcl/buttons.pp"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="200"/>
+        <CursorPos X="14" Y="209"/>
+        <UsageCount Value="9"/>
+      </Unit19>
+      <Unit20>
+        <Filename Value="/usr/lib/codetyphon/typhon/lcl/controls.pp"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="370"/>
+        <CursorPos X="3" Y="386"/>
+        <UsageCount Value="10"/>
+      </Unit20>
+      <Unit21>
+        <Filename Value="/usr/lib/codetyphon/fpcsrc/rtl/objpas/classes/classesh.inc"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="744"/>
+        <CursorPos X="15" Y="758"/>
+        <UsageCount Value="10"/>
+      </Unit21>
+      <Unit22>
+        <Filename Value="../SecretCloud/main.pas"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="328"/>
+        <CursorPos Y="338"/>
+        <UsageCount Value="10"/>
+      </Unit22>
+      <Unit23>
+        <Filename Value="../SecretCloud/translater.pas"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="83"/>
+        <CursorPos X="36" Y="96"/>
+        <UsageCount Value="9"/>
+      </Unit23>
+      <Unit24>
+        <Filename Value="/usr/lib/codetyphon/fpcsrc/rtl/inc/threadh.inc"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="126"/>
+        <CursorPos X="10" Y="138"/>
+        <UsageCount Value="9"/>
+      </Unit24>
+      <Unit25>
+        <Filename Value="/usr/lib/codetyphon/typhon/lcl/dbgrids.pas"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1193"/>
+        <CursorPos X="38" Y="1206"/>
+        <UsageCount Value="9"/>
+      </Unit25>
+      <Unit26>
+        <Filename Value="/usr/lib/codetyphon/fpcsrc/packages/hash/src/sha1.pp"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="281"/>
+        <UsageCount Value="9"/>
+      </Unit26>
+      <Unit27>
+        <Filename Value="/usr/lib/codetyphon/typhon/lcl/dialogs.pp"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="485"/>
+        <CursorPos X="10" Y="495"/>
+        <UsageCount Value="9"/>
+      </Unit27>
+      <Unit28>
+        <Filename Value="/usr/lib/codetyphon/fpcsrc/rtl/inc/objpash.inc"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="178"/>
+        <CursorPos X="23" Y="193"/>
+        <UsageCount Value="10"/>
+      </Unit28>
+      <Unit29>
+        <Filename Value="/usr/lib/codetyphon/typhon/lcl/comctrls.pp"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1547"/>
+        <CursorPos X="3" Y="1582"/>
+        <UsageCount Value="10"/>
+      </Unit29>
+      <Unit30>
+        <Filename Value="/usr/lib/codetyphon/typhon/components/lazutils/fileutil.pas"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="55"/>
+        <CursorPos X="23" Y="73"/>
+        <UsageCount Value="10"/>
+      </Unit30>
+      <Unit31>
+        <Filename Value="/usr/lib/codetyphon/fpcsrc/rtl/objpas/sysutils/filutilh.inc"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="76"/>
+        <CursorPos X="6" Y="88"/>
+        <UsageCount Value="10"/>
+      </Unit31>
+      <Unit32>
+        <Filename Value="/usr/lib/codetyphon/fpcsrc/rtl/objpas/fgl.pp"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="100"/>
+        <CursorPos X="11" Y="110"/>
+        <UsageCount Value="11"/>
+      </Unit32>
+      <Unit33>
+        <Filename Value="/usr/lib/codetyphon/fpcsrc/tests/utils/libtar.pas"/>
+        <UnitName Value="LibTar"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="164"/>
+        <CursorPos X="30" Y="188"/>
+        <UsageCount Value="10"/>
+      </Unit33>
+      <Unit34>
+        <Filename Value="/usr/lib/codetyphon/fpcsrc/rtl/objpas/classes/stringl.inc"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1383"/>
+        <CursorPos X="3" Y="1389"/>
+        <UsageCount Value="10"/>
+      </Unit34>
+    </Units>
+    <General>
+      <ActiveWindowIndexAtStart Value="0"/>
+    </General>
+    <JumpHistory Count="30" HistoryIndex="29">
+      <Position1>
+        <Filename Value="cryptviewctrls.pas"/>
+        <Caret Line="36" Column="74" TopLine="23"/>
+      </Position1>
+      <Position2>
+        <Filename Value="main.pas"/>
+        <Caret Line="72" Column="26" TopLine="56"/>
+      </Position2>
+      <Position3>
+        <Filename Value="cryptviewctrls.pas"/>
+        <Caret Line="152" Column="3" TopLine="147"/>
+      </Position3>
+      <Position4>
+        <Filename Value="cryptviewctrls.pas"/>
+        <Caret Line="154" Column="25" TopLine="133"/>
+      </Position4>
+      <Position5>
+        <Filename Value="filestores.pas"/>
+        <Caret Line="44" Column="23" TopLine="22"/>
+      </Position5>
+      <Position6>
+        <Filename Value="filestores.pas"/>
+        <Caret Line="93" Column="6" TopLine="10"/>
+      </Position6>
+      <Position7>
+        <Filename Value="filestores.pas"/>
+        <Caret Line="41" Column="27" TopLine="19"/>
+      </Position7>
+      <Position8>
+        <Filename Value="filestores.pas"/>
+        <Caret Line="46" Column="23" TopLine="26"/>
+      </Position8>
+      <Position9>
+        <Filename Value="main.pas"/>
+        <Caret Line="72" Column="26" TopLine="56"/>
+      </Position9>
+      <Position10>
+        <Filename Value="main.pas"/>
+        <Caret Line="21" Column="53" TopLine="6"/>
+      </Position10>
+      <Position11>
+        <Filename Value="filestores.pas"/>
+        <Caret Line="185" Column="14" TopLine="169"/>
+      </Position11>
+      <Position12>
+        <Filename Value="filestores.pas"/>
+        <Caret Line="229" Column="44" TopLine="214"/>
+      </Position12>
+      <Position13>
+        <Filename Value="cryptviewctrls.pas"/>
+        <Caret Line="151" Column="39" TopLine="28"/>
+      </Position13>
+      <Position14>
+        <Filename Value="filestores.pas"/>
+        <Caret Line="47" Column="17" TopLine="34"/>
+      </Position14>
+      <Position15>
+        <Filename Value="filestores.pas"/>
+        <Caret Line="247" Column="39" TopLine="154"/>
+      </Position15>
+      <Position16>
+        <Filename Value="filestores.pas"/>
+        <Caret Line="257" Column="17" TopLine="249"/>
+      </Position16>
+      <Position17>
+        <Filename Value="filestores.pas"/>
+        <Caret Line="290" Column="37" TopLine="270"/>
+      </Position17>
+      <Position18>
+        <Filename Value="filestores.pas"/>
+        <Caret Line="257" Column="18" TopLine="243"/>
+      </Position18>
+      <Position19>
+        <Filename Value="filestores.pas"/>
+        <Caret Line="295" Column="12" TopLine="278"/>
+      </Position19>
+      <Position20>
+        <Filename Value="filestores.pas"/>
+        <Caret Line="281" Column="37" TopLine="256"/>
+      </Position20>
+      <Position21>
+        <Filename Value="filestores.pas"/>
+        <Caret Line="268" Column="30" TopLine="243"/>
+      </Position21>
+      <Position22>
+        <Filename Value="filestores.pas"/>
+        <Caret Line="257" Column="34" TopLine="246"/>
+      </Position22>
+      <Position23>
+        <Filename Value="filestores.pas"/>
+        <Caret Line="293" Column="18" TopLine="277"/>
+      </Position23>
+      <Position24>
+        <Filename Value="filestores.pas"/>
+        <Caret Line="299" Column="11" TopLine="272"/>
+      </Position24>
+      <Position25>
+        <Filename Value="filestores.pas"/>
+        <Caret Line="296" Column="37" TopLine="284"/>
+      </Position25>
+      <Position26>
+        <Filename Value="filestores.pas"/>
+        <Caret Line="292" Column="52" TopLine="275"/>
+      </Position26>
+      <Position27>
+        <Filename Value="filestores.pas"/>
+        <Caret Line="249" Column="24" TopLine="239"/>
+      </Position27>
+      <Position28>
+        <Filename Value="main.pas"/>
+        <Caret Line="57" Column="9" TopLine="4"/>
+      </Position28>
+      <Position29>
+        <Filename Value="cryptviewctrls.pas"/>
+        <Caret Line="440" Column="19" TopLine="418"/>
+      </Position29>
+      <Position30>
+        <Filename Value="filestores.pas"/>
+        <Caret Line="305" Column="12" TopLine="296"/>
+      </Position30>
+    </JumpHistory>
+  </ProjectSession>
+</CONFIG>
